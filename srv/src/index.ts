@@ -1,6 +1,3 @@
-// Create a typescrpit express server that listens on port 3000 and returns a string
-// with the client's ip address
-
 const express = require('express');
 const app = express();
 
